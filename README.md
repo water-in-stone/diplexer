@@ -1,1 +1,1 @@
-# use MATLAB to implement a diplexer, which is base on Macchiarella's paper named 《Novel Approach to the Synthesis of Microwave Diplexers》and《Synthesis of Star-junction Multiplexers》
+# Using Matlab to calculate the parameters about a diplexer.Those work are based on Macchiarella's paper named 《Novel Approach to the Synthesis of Microwave Diplexers》and《Synthesis of Star-junction Multiplexers》
